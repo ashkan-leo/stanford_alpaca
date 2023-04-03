@@ -12,7 +12,7 @@ Some Git Repo:
 - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
     - https://github.com/nomic-ai/gpt4all
 
-/home/agi/w clone space 
-Download tokenizer.model
-Fix typos LLaMa
-Import acceslaater
+- /home/agi/w clone space 
+- Download tokenizer.model
+- Fix typos LLaMa
+- Import accelerator
